@@ -2,15 +2,15 @@
 #include <ESP_Mail_Client.h>
 
 // WiFi credentials
-#define WIFI_SSID "Machi*ne"
-#define WIFI_PASSWORD "granite-134-264"
+#define WIFI_SSID "Your Wifi Name"
+#define WIFI_PASSWORD "Your WIfi password"
 
 // SMTP credentials
 #define SMTP_server "smtp.gmail.com"
 #define SMTP_Port 465
-#define sender_email "Halloapp77@gmail.com"
-#define sender_password "sjqt slir ggzf dvqq"
-#define Recipient_email "prajeetxmusic@gmail.com"
+#define sender_email "sender gmail"
+#define sender_password "sender password" //This password is not your gmail password. 
+#define Recipient_email "receiver gmail"
 #define Recipient_name ""
 
 // Motion sensor and buzzer pins
