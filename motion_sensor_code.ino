@@ -9,7 +9,7 @@
 #define SMTP_server "smtp.gmail.com"
 #define SMTP_Port 465
 #define sender_email "sender gmail"
-#define sender_password "sender password" //This password is not your gmail password. 
+#define sender_password "sender password" //This password is not your gmail password. This is the app password. checkout the readme for details.
 #define Recipient_email "receiver gmail"
 #define Recipient_name ""
 
